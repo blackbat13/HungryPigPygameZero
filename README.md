@@ -1,5 +1,7 @@
 # Pig Hunt
 
+![](pigHunt.gif)
+
 ## Assets
 
 - https://kenney.nl/
