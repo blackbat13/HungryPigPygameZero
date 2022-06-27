@@ -2,6 +2,10 @@
 
 ![](pigHunt.gif)
 
+# Tutorial
+
+https://edu.cs-htiew.com/pl/learning-by-games/python/hungry-pig
+
 ## Assets
 
 - https://kenney.nl/
